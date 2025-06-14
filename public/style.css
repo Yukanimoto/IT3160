@@ -1,0 +1,12 @@
+.content{
+    display: flex;
+    justify-content: center;
+}
+
+.option{
+    margin: 2%;
+}
+
+.option-title{
+    font-weight: bold;
+}
